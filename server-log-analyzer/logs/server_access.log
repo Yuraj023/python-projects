@@ -1,0 +1,29 @@
+2026-02-10 08:15:23 | INFO | User: john_doe | IP: 192.168.1.45 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 08:17:45 | INFO | User: jane_smith | IP: 192.168.1.67 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 08:20:12 | WARNING | User: admin | IP: 203.0.113.42 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid password
+2026-02-10 08:20:45 | WARNING | User: admin | IP: 203.0.113.42 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid password
+2026-02-10 08:21:18 | WARNING | User: admin | IP: 203.0.113.42 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid password
+2026-02-10 08:22:03 | ERROR | User: admin | IP: 203.0.113.42 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid password
+2026-02-10 09:30:56 | INFO | User: mary_jones | IP: 192.168.1.89 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 10:15:22 | INFO | User: bob_wilson | IP: 192.168.1.102 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 11:45:30 | WARNING | User: root | IP: 198.51.100.77 | Action: LOGIN_FAILED | Status: 401 | Reason: Account locked
+2026-02-10 12:20:15 | INFO | User: alice_brown | IP: 192.168.1.134 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 13:05:48 | WARNING | User: system_admin | IP: 198.51.100.77 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid credentials
+2026-02-10 13:06:22 | WARNING | User: admin | IP: 198.51.100.77 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid credentials
+2026-02-10 14:30:45 | INFO | User: david_lee | IP: 192.168.1.156 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 15:22:10 | INFO | User: sarah_kim | IP: 192.168.1.178 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 16:45:33 | WARNING | User: guest | IP: 198.51.100.77 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid password
+2026-02-10 17:30:00 | INFO | User: john_doe | IP: 192.168.1.45 | Action: LOGOUT | Status: 200
+2026-02-10 23:45:12 | WARNING | User: admin | IP: 203.0.113.99 | Action: LOGIN_FAILED | Status: 401 | Reason: Suspicious off-hours access
+2026-02-10 23:46:30 | WARNING | User: root | IP: 203.0.113.99 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid password
+2026-02-10 23:47:15 | ERROR | User: superuser | IP: 203.0.113.99 | Action: LOGIN_FAILED | Status: 401 | Reason: Account does not exist
+2026-02-10 02:15:45 | WARNING | User: admin | IP: 45.76.123.88 | Action: LOGIN_FAILED | Status: 401 | Reason: Off-hours access attempt
+2026-02-10 02:16:22 | WARNING | User: admin | IP: 45.76.123.88 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid password
+2026-02-10 02:17:05 | WARNING | User: root | IP: 45.76.123.88 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid password
+2026-02-10 02:18:33 | ERROR | User: admin | IP: 45.76.123.88 | Action: LOGIN_FAILED | Status: 401 | Reason: Too many attempts
+2026-02-10 03:22:10 | WARNING | User: administrator | IP: 103.54.221.12 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid credentials
+2026-02-10 03:23:45 | WARNING | User: sysadmin | IP: 103.54.221.12 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid credentials
+2026-02-10 03:25:12 | WARNING | User: webadmin | IP: 103.54.221.12 | Action: LOGIN_FAILED | Status: 401 | Reason: Invalid credentials
+2026-02-10 07:45:30 | INFO | User: emma_davis | IP: 192.168.1.201 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 08:30:15 | INFO | User: michael_chen | IP: 192.168.1.215 | Action: LOGIN_SUCCESS | Status: 200
+2026-02-10 09:15:42 | INFO | User: lisa_garcia | IP: 192.168.1.223 | Action: LOGIN_SUCCESS | Status: 200

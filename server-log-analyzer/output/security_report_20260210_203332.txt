@@ -1,0 +1,59 @@
+================================================================================
+SERVER LOG SECURITY ANALYSIS REPORT
+================================================================================
+Report Generated: 2026-02-10 20:33:32
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total Log Entries Analyzed: 45
+Successful Logins: 17
+Failed Login Attempts: 27
+Unique Users: 0
+Unique IP Addresses: 0
+Suspicious IPs Detected: 0
+Off-Hours Access Attempts: 0
+
+ALERT SUMMARY
+--------------------------------------------------------------------------------
+Total Alerts Generated: 24
+  • CRITICAL: 10
+  • HIGH: 14
+  • MEDIUM: 0
+  • LOW: 0
+
+FAILED LOGIN ANALYSIS
+--------------------------------------------------------------------------------
+No users with repeated failed attempts detected.
+
+No IPs with repeated failed attempts detected.
+
+SUSPICIOUS IP ANALYSIS
+--------------------------------------------------------------------------------
+No suspicious IP patterns detected.
+
+OFF-HOURS ACCESS ANALYSIS
+--------------------------------------------------------------------------------
+Off-Hours Period: 10:00 PM - 6:00 AM
+
+No off-hours access attempts detected.
+
+SECURITY RECOMMENDATIONS
+--------------------------------------------------------------------------------
+🚨 IMMEDIATE ACTION REQUIRED:
+   - Investigate all CRITICAL alerts immediately
+   - Consider temporary account lockouts for affected users
+   - Block suspicious IP addresses at firewall level
+🔐 Authentication Security:
+   - Implement account lockout after 3 failed attempts
+   - Enforce strong password policies
+   - Consider implementing multi-factor authentication
+📊 General Best Practices:
+   - Regular security audits and log reviews
+   - Keep security monitoring systems up to date
+   - Train staff on security awareness
+   - Maintain incident response procedures
+
+================================================================================
+END OF REPORT
+================================================================================
