@@ -1,4 +1,4 @@
-# 🔐 Server Log Security Analyzer
+### 🔐 Server Log Security Analyzer
 A professional Python application that analyzes server log files to detect security threats, identify suspicious activities, and generate comprehensive security reports. Perfect for demonstrating cybersecurity and data analysis skills.
 
 ## 🎯 Project Overview
