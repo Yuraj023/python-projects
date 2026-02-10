@@ -1,9 +1,4 @@
 # 🔐 Server Log Security Analyzer
-
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
-
 A professional Python application that analyzes server log files to detect security threats, identify suspicious activities, and generate comprehensive security reports. Perfect for demonstrating cybersecurity and data analysis skills.
 
 ## 🎯 Project Overview
@@ -198,16 +193,7 @@ Potential features to add:
 - [ ] Real-time log monitoring
 - [ ] Integration with SIEM systems
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ## 🤝 Contributing
 
